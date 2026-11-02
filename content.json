@@ -1,0 +1,661 @@
+{
+ "version": 1,
+ "stats": [
+  {
+   "fa": {
+    "v": "حدود ۱۵۰",
+    "l": "عضو باشگاه"
+   },
+   "en": {
+    "v": "About 150",
+    "l": "club members"
+   }
+  },
+  {
+   "fa": {
+    "v": "۸ نفر",
+    "l": "در تیم مربیان"
+   },
+   "en": {
+    "v": "8 coaches",
+    "l": "on the coaching team"
+   }
+  },
+  {
+   "fa": {
+    "v": "۳ سال به بالا",
+    "l": "از خردسالان تا سالمندان"
+   },
+   "en": {
+    "v": "Ages 3+",
+    "l": "from toddlers to seniors"
+   }
+  },
+  {
+   "fa": {
+    "v": "۶ روز",
+    "l": "در هفته، به‌جز تعطیلات رسمی"
+   },
+   "en": {
+    "v": "6 days",
+    "l": "a week, except public holidays"
+   }
+  }
+ ],
+ "hours": {
+  "fa": {
+   "m": "۰۸:۰۰ تا ۱۲:۳۰",
+   "mLabel": "نوبت صبح · شنبه تا پنجشنبه",
+   "e": "۱۵:۰۰ تا ۲۱:۰۰",
+   "eLabel": "نوبت عصر · شنبه تا پنجشنبه",
+   "closedTitle": "تعطیل",
+   "closed": "جمعه‌ها و تعطیلات رسمی"
+  },
+  "en": {
+   "m": "08:00 – 12:30",
+   "mLabel": "Morning session · Saturday to Thursday",
+   "e": "15:00 – 21:00",
+   "eLabel": "Evening session · Saturday to Thursday",
+   "closedTitle": "Closed",
+   "closed": "Fridays and public holidays"
+  }
+ },
+ "classes": [
+  {
+   "id": "tkd-g",
+   "groups": [
+    "kid",
+    "adult"
+   ],
+   "s": [
+    [
+     1,
+     "14:30",
+     "19:00"
+    ],
+    [
+     3,
+     "14:30",
+     "19:00"
+    ],
+    [
+     5,
+     "14:30",
+     "19:00"
+    ]
+   ],
+   "fa": {
+    "sport": "تکواندو",
+    "name": "تکواندو دختران",
+    "sub": "از ۸ سال تا میانسالی",
+    "tag": "دختران",
+    "coach": "استاد پارسا",
+    "level": "سه سطح مختلف",
+    "cl": "تکواندو دختران"
+   },
+   "en": {
+    "sport": "Taekwondo",
+    "name": "Girls’ Taekwondo",
+    "sub": "Age 8 to middle age",
+    "tag": "Girls",
+    "coach": "Master Parsa",
+    "level": "Three levels",
+    "cl": "Girls’ taekwondo"
+   }
+  },
+  {
+   "id": "tkd-b-adv",
+   "groups": [
+    "kid",
+    "adult"
+   ],
+   "s": [
+    [
+     0,
+     "18:30",
+     "20:00"
+    ],
+    [
+     4,
+     "18:30",
+     "20:00"
+    ]
+   ],
+   "fa": {
+    "sport": "تکواندو",
+    "name": "تکواندو پسران · پیشرفته",
+    "sub": "گروه پیشرفته",
+    "tag": "پسران",
+    "coach": "استاد طاهری",
+    "level": "پیشرفته",
+    "cl": "تکواندو پسران"
+   },
+   "en": {
+    "sport": "Taekwondo",
+    "name": "Boys’ Taekwondo · Advanced",
+    "sub": "Advanced group",
+    "tag": "Boys",
+    "coach": "Master Taheri",
+    "level": "Advanced",
+    "cl": "Boys’ taekwondo"
+   }
+  },
+  {
+   "id": "tkd-b",
+   "groups": [
+    "kid",
+    "adult"
+   ],
+   "s": [
+    [
+     1,
+     "19:00",
+     "20:30"
+    ],
+    [
+     3,
+     "19:00",
+     "20:30"
+    ],
+    [
+     5,
+     "19:00",
+     "20:30"
+    ]
+   ],
+   "fa": {
+    "sport": "تکواندو",
+    "name": "تکواندو پسران · مبتدی و متوسط",
+    "sub": "گروه مبتدی و متوسط",
+    "tag": "پسران",
+    "coach": "استاد روز بهمن",
+    "level": "مبتدی و متوسط",
+    "cl": "تکواندو پسران"
+   },
+   "en": {
+    "sport": "Taekwondo",
+    "name": "Boys’ Taekwondo · Beginner & Intermediate",
+    "sub": "Beginner and intermediate group",
+    "tag": "Boys",
+    "coach": "Master Roozbahman",
+    "level": "Beginner & intermediate",
+    "cl": "Boys’ taekwondo"
+   }
+  },
+  {
+   "id": "gym-g",
+   "groups": [
+    "kid"
+   ],
+   "s": [
+    [
+     2,
+     "18:15",
+     "19:30"
+    ],
+    [
+     5,
+     "10:30",
+     "11:45"
+    ]
+   ],
+   "fa": {
+    "sport": "ژیمناستیک",
+    "name": "ژیمناستیک کودکان · دختران",
+    "sub": "۷ سال به بالا",
+    "tag": "دختران",
+    "coach": "خانم فدایی",
+    "level": "همه سطوح",
+    "cl": "ژیمناستیک"
+   },
+   "en": {
+    "sport": "Gymnastics",
+    "name": "Kids’ Gymnastics · Girls",
+    "sub": "Ages 7 and up",
+    "tag": "Girls",
+    "coach": "Ms. Fadaei",
+    "level": "All levels",
+    "cl": "Gymnastics"
+   }
+  },
+  {
+   "id": "gym-b",
+   "groups": [
+    "kid"
+   ],
+   "s": [
+    [
+     2,
+     "15:30",
+     "16:45"
+    ],
+    [
+     5,
+     "09:15",
+     "10:30"
+    ]
+   ],
+   "fa": {
+    "sport": "ژیمناستیک",
+    "name": "ژیمناستیک کودکان · پسران",
+    "sub": "۷ سال به بالا",
+    "tag": "پسران",
+    "coach": "خانم فدایی",
+    "level": "همه سطوح",
+    "cl": "ژیمناستیک"
+   },
+   "en": {
+    "sport": "Gymnastics",
+    "name": "Kids’ Gymnastics · Boys",
+    "sub": "Ages 7 and up",
+    "tag": "Boys",
+    "coach": "Ms. Fadaei",
+    "level": "All levels",
+    "cl": "Gymnastics"
+   }
+  },
+  {
+   "id": "gym-s",
+   "groups": [
+    "kid"
+   ],
+   "s": [
+    [
+     1,
+     "11:00",
+     "12:00"
+    ],
+    [
+     3,
+     "11:00",
+     "12:00"
+    ]
+   ],
+   "fa": {
+    "sport": "ژیمناستیک",
+    "name": "ژیمناستیک خردسالان",
+    "sub": "۳ تا ۶ سال",
+    "tag": "۳ تا ۶ سال",
+    "coach": "خانم فدایی",
+    "level": "ویژهٔ سنین ۳ تا ۶ سال",
+    "cl": "ژیمناستیک"
+   },
+   "en": {
+    "sport": "Gymnastics",
+    "name": "Preschool Gymnastics",
+    "sub": "Ages 3 to 6",
+    "tag": "Ages 3–6",
+    "coach": "Ms. Fadaei",
+    "level": "For ages 3 to 6",
+    "cl": "Gymnastics"
+   }
+  },
+  {
+   "id": "aero-m",
+   "groups": [
+    "adult"
+   ],
+   "s": [
+    [
+     1,
+     "08:00",
+     "09:00"
+    ],
+    [
+     3,
+     "08:00",
+     "09:00"
+    ],
+    [
+     5,
+     "08:00",
+     "09:00"
+    ]
+   ],
+   "fa": {
+    "sport": "ایروفیتنس",
+    "name": "ایروفیتنس صبح",
+    "sub": "کلاس نوبت صبح",
+    "tag": "صبح",
+    "coach": "خانم مهماندوست",
+    "level": "همه سطوح",
+    "cl": "ایروفیتنس"
+   },
+   "en": {
+    "sport": "Aerofitness",
+    "name": "Morning Aerofitness",
+    "sub": "Morning class",
+    "tag": "Morning",
+    "coach": "Ms. Mehmandoost",
+    "level": "All levels",
+    "cl": "Aerofitness"
+   }
+  },
+  {
+   "id": "aero-e",
+   "groups": [
+    "adult"
+   ],
+   "s": [
+    [
+     0,
+     "17:00",
+     "18:00"
+    ],
+    [
+     2,
+     "17:00",
+     "18:00"
+    ],
+    [
+     4,
+     "17:00",
+     "18:00"
+    ]
+   ],
+   "fa": {
+    "sport": "ایروفیتنس",
+    "name": "ایروفیتنس عصر",
+    "sub": "کلاس نوبت عصر",
+    "tag": "عصر",
+    "coach": "خانم بیک‌پور",
+    "level": "همه سطوح",
+    "cl": "ایروفیتنس"
+   },
+   "en": {
+    "sport": "Aerofitness",
+    "name": "Evening Aerofitness",
+    "sub": "Evening class",
+    "tag": "Evening",
+    "coach": "Ms. Beikpour",
+    "level": "All levels",
+    "cl": "Aerofitness"
+   }
+  },
+  {
+   "id": "fit-50",
+   "groups": [
+    "senior"
+   ],
+   "s": [
+    [
+     0,
+     "08:00",
+     "09:00"
+    ],
+    [
+     0,
+     "09:00",
+     "10:00"
+    ],
+    [
+     2,
+     "08:00",
+     "09:00"
+    ],
+    [
+     2,
+     "09:00",
+     "10:00"
+    ],
+    [
+     4,
+     "08:00",
+     "09:00"
+    ],
+    [
+     4,
+     "09:00",
+     "10:00"
+    ]
+   ],
+   "fa": {
+    "sport": "آمادگی جسمانی",
+    "name": "آمادگی جسمانی بزرگسالان",
+    "sub": "ویژهٔ سنین ۵۰ سال به بالا",
+    "tag": "۵۰+",
+    "coach": "خانم آزما",
+    "level": "مبتدی و متوسط",
+    "cl": "آمادگی جسمانی"
+   },
+   "en": {
+    "sport": "Fitness",
+    "name": "Adult Fitness 50+",
+    "sub": "For ages 50 and over",
+    "tag": "50+",
+    "coach": "Ms. Azma",
+    "level": "Beginner & intermediate",
+    "cl": "Fitness training"
+   }
+  },
+  {
+   "id": "rhythm",
+   "groups": [
+    "adult"
+   ],
+   "s": [
+    [
+     2,
+     "11:00",
+     "12:00"
+    ]
+   ],
+   "fa": {
+    "sport": "حرکات ریتمیک",
+    "name": "حرکات ریتمیک",
+    "sub": "کلاس حرکات ریتمیک",
+    "tag": "همه سطوح",
+    "coach": "خانم مرتضی‌پور",
+    "level": "همه سطوح",
+    "cl": "حرکات ریتمیک"
+   },
+   "en": {
+    "sport": "Rhythmic Movement",
+    "name": "Rhythmic Movement",
+    "sub": "Rhythmic movement class",
+    "tag": "All levels",
+    "coach": "Ms. Mortezapour",
+    "level": "All levels",
+    "cl": "Rhythmic movement"
+   }
+  }
+ ],
+ "coaches": [
+  {
+   "id": "c1",
+   "fa": {
+    "name": "استاد پارسا",
+    "spec": "تکواندو دختران"
+   },
+   "en": {
+    "name": "Master Parsa",
+    "spec": "Girls’ taekwondo"
+   }
+  },
+  {
+   "id": "c2",
+   "fa": {
+    "name": "استاد طاهری",
+    "spec": "تکواندو پسران"
+   },
+   "en": {
+    "name": "Master Taheri",
+    "spec": "Boys’ taekwondo"
+   }
+  },
+  {
+   "id": "c3",
+   "fa": {
+    "name": "استاد روز بهمن",
+    "spec": "تکواندو پسران"
+   },
+   "en": {
+    "name": "Master Roozbahman",
+    "spec": "Boys’ taekwondo"
+   }
+  },
+  {
+   "id": "c4",
+   "fa": {
+    "name": "خانم فدایی",
+    "spec": "ژیمناستیک"
+   },
+   "en": {
+    "name": "Ms. Fadaei",
+    "spec": "Gymnastics"
+   }
+  },
+  {
+   "id": "c5",
+   "fa": {
+    "name": "خانم مهماندوست",
+    "spec": "ایروفیتنس"
+   },
+   "en": {
+    "name": "Ms. Mehmandoost",
+    "spec": "Aerofitness"
+   }
+  },
+  {
+   "id": "c6",
+   "fa": {
+    "name": "خانم بیک‌پور",
+    "spec": "ایروفیتنس"
+   },
+   "en": {
+    "name": "Ms. Beikpour",
+    "spec": "Aerofitness"
+   }
+  },
+  {
+   "id": "c7",
+   "fa": {
+    "name": "خانم آزما",
+    "spec": "آمادگی جسمانی"
+   },
+   "en": {
+    "name": "Ms. Azma",
+    "spec": "Fitness training"
+   }
+  },
+  {
+   "id": "c8",
+   "fa": {
+    "name": "خانم مرتضی‌پور",
+    "spec": "حرکات ریتمیک"
+   },
+   "en": {
+    "name": "Ms. Mortezapour",
+    "spec": "Rhythmic movement"
+   }
+  }
+ ],
+ "news": [
+  {
+   "id": "n1",
+   "date": "2026-10-20",
+   "img": "",
+   "medal": "۱",
+   "fa": {
+    "tag": "پومسه · مقام اول",
+    "title": "قهرمانی آرش غلامپور در مسابقات آزاد پومسه",
+    "body": "کسب مقام اول در مسابقات آزاد پومسهٔ قهرمانی مناطق کشور، در ردهٔ سنی زیر ۱۲ سال، به مربیگری استاد طاهری."
+   },
+   "en": {
+    "tag": "Poomsae · First place",
+    "title": "Arash Gholampour wins the open poomsae championship",
+    "body": "First place in the national regional open poomsae championship, under‑12 category, coached by Master Taheri."
+   }
+  },
+  {
+   "id": "n2",
+   "date": "2026-10-10",
+   "img": "",
+   "medal": "★",
+   "fa": {
+    "tag": "پومسه · دختران تلاش",
+    "title": "مدال‌های رنگارنگ برای دختران پومسه‌کار تلاش",
+    "body": "به دختران پومسه‌کار تلاش و مربیانشان تبریک می‌گوییم."
+   },
+   "en": {
+    "tag": "Poomsae · Talash girls",
+    "title": "A haul of medals for Talash’s poomsae girls",
+    "body": "Congratulations to the Talash poomsae girls and their coaches."
+   }
+  },
+  {
+   "id": "mvyywulld48q8",
+   "date": "2026-11-02",
+   "img": "media/2026-11/mvyyx7otej4uy.jpg",
+   "medal": "●",
+   "fa": {
+    "tag": "مجله-تلاش . آبان . ورزش . سلامت . علم",
+    "title": "مجله آبان ماه منتشر شد!",
+    "body": ""
+   },
+   "en": {
+    "tag": "",
+    "title": "",
+    "body": ""
+   }
+  }
+ ],
+ "magazine": {
+  "cover": "media/2026-11/mvycjhudv92vi.jpg",
+  "fa": {
+   "eyebrow": "انتشار ماهانه · شمارهٔ ۱ · مهر ۱۴۰۵",
+   "title": "مجله تلاش؛ علم، ورزش، سلامت.",
+   "body": "مجلهٔ ماهانهٔ باشگاه، ویژهٔ اعضای تلاش. اعضا با ورود به صفحهٔ کاربری خود همهٔ شماره‌ها را می‌خوانند. در اولین شماره:",
+   "topics": [
+    "چطور علمی‌تر ورزش کنیم؟",
+    "چرا گرم‌کردن اهمیت دارد؟",
+    "قدرت، انعطاف‌پذیری یا استقامت؟",
+    "قبل و بعد از تمرین چه بخوریم؟",
+    "بدن ما هنگام ورزش چه اتفاقی را تجربه می‌کند؟",
+    "آشنایی با فضای باشگاه"
+   ]
+  },
+  "en": {
+   "eyebrow": "Monthly · Issue 1 · Mehr 1405 (Sep–Oct 2026)",
+   "title": "Talash Magazine: science, sport, health.",
+   "body": "The club’s monthly magazine, for Talash members only. Members read every issue from their member page. The magazine is published in Persian. In the first issue:",
+   "topics": [
+    "How can we train more scientifically?",
+    "Why does warming up matter?",
+    "Strength, flexibility or endurance?",
+    "What to eat before and after training",
+    "What happens to the body during exercise?",
+    "A tour of the club"
+   ]
+  }
+ },
+ "contact": {
+  "phones": [
+   {
+    "fa": "تلفن باشگاه",
+    "en": "Club phone",
+    "num": "01342685920"
+   },
+   {
+    "fa": "مدیریت باشگاه",
+    "en": "Club management",
+    "num": "09111447787"
+   },
+   {
+    "fa": "مدیریت باشگاه",
+    "en": "Club management",
+    "num": "09112419827"
+   }
+  ],
+  "instagram": "talash_clubklch",
+  "telegram": "talash_clubklch",
+  "map": "https://maps.app.goo.gl/aGLDnjbn3UhW1Jo58",
+  "fa": {
+   "address": "ایران، گیلان، کلاچای"
+  },
+  "en": {
+   "address": "Kelachay, Gilan, Iran"
+  }
+ },
+ "updated": "2026-11-02T08:01:16.612Z"
+}
